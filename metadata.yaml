@@ -1,0 +1,30 @@
+_repo: Societies-of-the-Kiowas_37633
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lowie, Robert Harry
+    aliases:
+    - Lowie, Robert H. (Robert Harry)
+    - Lowie, Robert Heinrich
+    birthdate: 1883
+    deathdate: 1957
+    gutenberg_agent_id: '38964'
+    url: http://www.gutenberg.org/2009/agents/38964
+description: ''
+gutenberg_issued: '2011-10-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37633'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'E011'
+- !lcsh 'Indians of North America -- Social life and customs'
+- !lcsh 'Kiowa Indians'
+title: Societies of the Kiowas
+url: http://www.gutenberg.org/ebooks/37633
